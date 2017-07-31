@@ -35,23 +35,29 @@ Catalogo de Ejercicios
 - **inicializarListaContando(l, n)**: inicializa los primeros `n` elementos de la lista `l`, con valores ascendentes de uno en uno, ej:
 
 ```js
+  int unaLista[20]
   inicializarListaContando(unaLista, 5) = [1, 2, 3, 4, 5, ...]
 ```
 
 - **inicializarListaContandoDesde(l, n, desde)**: inicializa los primeros `n` elementos de la lista `l`, con valores descendentes, de `desde` hasta `desde - n - 1`. ej:
 
 ```js
+  int unaLista[20]
   inicializarListaContando(unaLista, 5, 7) = [7, 6, 5, 4, 3, ...]
 ```
 
 - **darVueltaLista(l, n)**: da vuelta los primeros `n` elementos de la lista `l`. ej: 
 
 ```js
-  revertirLista([1, 2, 3, 4, 5], 3) = [3, 2, 1, 4, 5]
+  int unaLista[] <- [1, 2, 3, 4, 5]
+  darVueltaLista(unaLista, 5) = [5, 4, 3, 2, 1]
+  darVueltaLista(unaLista, 3) = [3, 2, 1, 4, 5]
 ```
 
 - **sumatoria(l, n)**: retorna la suma de los primeros `n` elementos de la lista `l`. ej: 
 
 ```js
-  sumatoria([10, 10, 10], 2) = 20
+  int unaLista[] <- [5, 10, 15]
+  sumatoria(unaLista, 3) = 30
+  sumatoria(unaLista, 2) = 15
 ```
