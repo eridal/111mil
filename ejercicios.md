@@ -1,12 +1,6 @@
 Catalogo de Ejercicios
 ======================
 
-# Programas
-
-## Escribir / Leer
-- **holaMundo**: imprime el texto `"hola mundo"`
-- **holaNombre**: pide el ingreso de un nombre, imprime el texto `"hola $nombre"` .. ej: `"hola Pepe"`
-
 ## Si
 - **mayorMenorIgual**: pide el ingreso de dos numeros A y B, los compara e imprime "mayor, menor o igual".
 - **nombreDeMes**: pide el ingreso de un numero del 1 al 12, imprime el nombre del mes, o error en otro caso.
@@ -17,12 +11,3 @@ Catalogo de Ejercicios
 - **contarHasta**: pide un numero, cuenta desde uno hasta dicho numero.
 - **contarDesde**: pide un numero, cuenta desde dicho numero hasta cero.
 - **contarDeAPasos**: pide un numero y cuenta desde uno con pasos segun el numero ingresado. ej: 
-
-    contarDeAPasos(3)
-    > 1
-    > 4
-    > 7
-    > 10
-    > 13
-    > 16
-    > ...
