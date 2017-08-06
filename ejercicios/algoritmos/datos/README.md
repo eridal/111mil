@@ -3,6 +3,6 @@ Datos
 
 Ejercicios:
 
-1. [Hola Mundo](holaMundo.md)
-1. [Hola Nombre](holaNombre.md)
-1. [Menor a Mayor](menorMayor.md)
+1. [Hola Mundo](hola-mundo.md)
+1. [Hola Nombre](hola-nombre.md)
+1. [Menor a Mayor](menor-a-mayor.md)
