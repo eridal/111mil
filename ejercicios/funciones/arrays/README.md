@@ -1,8 +1,6 @@
 Arrays
 ======
 
-Ejercicios:
-
 1. [buscar](buscar.md): Encontrar la posicion de un elemento en un array
 1. [contiene](contiene.md): Determinar si un elemento esta presente en un array
 1. [inicializar](inicializar.md): Inicializar los elementos de un array
