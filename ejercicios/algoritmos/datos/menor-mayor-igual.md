@@ -1,5 +1,3 @@
-- **mayorMenorIgual**: pide el ingreso de dos numeros A y B, los compara e imprime "mayor, menor o igual".
-
 Menor, Mayor o Igual
 ====================
 
@@ -16,7 +14,6 @@ public class MenorMayorIgual {
     // (tu algoritmo aca)
   }
 }
-```
 ```
 
 #### Ejemplo:
