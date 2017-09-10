@@ -21,11 +21,18 @@ public class Numeros {
 public class EjemploNumerosEsPrimo {
 
   public static void main(String[] args) {
-    escribir(Numeros.esPrimo(1));   // true
-    escribir(Numeros.esPrimo(2));   // true
-    escribir(Numeros.esPrimo(3));   // true
-    escribir(Numeros.esPrimo(4));   // false
-    escribir(Numeros.esPrimo(200)); // false
+    // primos
+    escribir(Numeros.esPrimo(2));     // true
+    escribir(Numeros.esPrimo(7));     // true
+    escribir(Numeros.esPrimo(1871));  // true
+    escribir(Numeros.esPrimo(12119)); // true
+    escribir(Numeros.esPrimo(15679)); // true
+    // no primos
+    escribir(Numeros.esPrimo(6));         // false
+    escribir(Numeros.esPrimo(11663));     // false
+    escribir(Numeros.esPrimo(2663399));   // false
+    escribir(Numeros.esPrimo(190013801)); // false
+    escribir(Numeros.esPrimo(245831041)); // false
   }
 
   private static void escribir(boolean rta) {
