@@ -12,6 +12,12 @@ public class MenorMayor {
 }
 ```
 
+#### Notas:
+
+- Inicialmente implementar la solucion para 2 numeros, utilizando 1 solo `if`
+- Extender esa solucion para 3 numeros, idealmente utiliando 2 `if`
+- Deberia ser posible volver a extender para 4 numeros, agregando un `if`
+
 #### Ejemplo:
 
 ```
