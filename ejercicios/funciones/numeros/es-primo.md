@@ -5,26 +5,31 @@ Determina si un numero `num` es primo o no.
 
 > Un numero es primo cuando es divisible por si mismo y por uno.
 
-### pseint
+### Implementacion:
 
-```scala
-SubProceso resultado <- esPrimo(numero)
-
-  // (tu solucion aca)
-
-FinSubProceso
+```java
+public class Numeros {
+  public static boolean esPrimo(int numero) {
+    // (tu solucion aca)
+  }
+}
 ```
 
 #### Ejemplo de uso:
 
 ```scala
-Proceso ejemploEsPrimo
+public class EjemploNumerosEsPrimo {
 
-  Escribir esPrimo(1); // Verdadero
-  Escribir esPrimo(2); // Verdadero
-  Escribir esPrimo(3); // Verdadero
-  Escribir esPrimo(4); // Falso
-  Escribir esPrimo(200); // Falso
+  public static void main(String[] args) {
+    escribir(Numeros.esPrimo(1));   // true
+    escribir(Numeros.esPrimo(2));   // true
+    escribir(Numeros.esPrimo(3));   // true
+    escribir(Numeros.esPrimo(4));   // false
+    escribir(Numeros.esPrimo(200)); // false
+  }
 
-FinProceso
+  private static void escribir(boolean rta) {
+    System.out.println(rta);
+  }
+}
 ```

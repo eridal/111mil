@@ -10,12 +10,13 @@ los imprima segun corresponda:
 - A es mayor que B
 - A y B son iguales
 
-```scala
-Algoritmo menorMayorIgual
-
-  // (tu algoritmo aca)
-
-FinAlgoritmo
+```java
+public class MenorMayorIgual {
+  public static void main(String[] args) {
+    // (tu algoritmo aca)
+  }
+}
+```
 ```
 
 #### Ejemplo:

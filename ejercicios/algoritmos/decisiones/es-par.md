@@ -7,11 +7,11 @@ imprima `"es par"` o `"no es par"` segun el numero ingresado.
 > opcional: Volver a pedir otro numero a continuacion. El programa nunca termina.
 
 ```scala
-Algoritmo esPar
-
-  // (tu algoritmo aca)
-
-FinAlgoritmo
+public class EsPar {
+  public static void main(String[] args) {
+    // (tu algoritmo aca)
+  }
+}
 ```
 
 #### Ejemplo:

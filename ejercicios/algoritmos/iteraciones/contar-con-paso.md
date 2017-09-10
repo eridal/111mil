@@ -6,12 +6,12 @@ avanzando con _paso_ segun el numero ingresado.
 
 El programa no debe terminar.
 
-```scala
-Proceso contarConPaso
-
-  // (tu algoritmo aca)
-
-FinProceso
+```java
+public class ContarConPaso {
+  public static void main(String[] args) {
+    // (tu algoritmo aca)
+  }
+}
 ```
 
 #### Ejemplo:

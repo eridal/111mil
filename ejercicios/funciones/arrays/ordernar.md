@@ -3,14 +3,14 @@ ordernar
 
 Ordena los primeros `n` elementos del array `arr` de menor a mayor.
 
-### pseint
+### Implementacion
 
-```scala
-SubProceso ordernar(arr, n)
-
-  // (tu solucion aca)
-
-FinSubProceso
+```java
+public class Arrays {
+  public static void ordenar(Object[] arr, int n) {
+    // (tu solucion aca)
+  }
+}
 ```
 
 #### Ejemplo de uso:

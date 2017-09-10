@@ -3,25 +3,33 @@ inicializar
 
 Inicializa los primeros `n` elementos del array `arr` con el valor `val`
 
-### pseint
+### Implementacion:
 
-```scala
-SubProceso inicializar(arr, n, val)
-
-  // (tu solucion aca)
-
-FinSubProceso
+```java
+public class Arrays {
+  public static void inicializar(Object[] arr, int n, Object valor) {
+    // (tu solucion aca)
+  }
+}
 ```
 
 #### Ejemplo de uso:
 
-```scala
-Proceso ejemploInicializar
+```java
+public class EjemploArraysInicializar {
 
-  Definir palabras Como Caracter;
-  Dimension palabras[4];
+  public static void main(String[] args) {
 
-  inicializar(palabras, 4, "hola");
+    String[] palabras = new String[4];
+    int n = 4;
 
-FinProceso
+    Arrays.inicializar(palabras, n, "hola");
+
+    for (int i = 0; i < n; i += 1) {
+      System.out.println(
+        String.format("palabra[%d] = %s", i, palabras[i])
+      );
+    }
+  }
+}
 ```

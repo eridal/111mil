@@ -4,12 +4,12 @@ De Menor A Mayor
 Escribir un programa que nos pida el ingreso de 3 numeros, y luego
 los imprima ordernados de menor a mayor.
 
-```scala
-Algoritmo menorMayor
-
-  // (tu algoritmo aca)
-
-FinAlgoritmo
+```java
+public class MenorMayor {
+  public static void main(String[] args) {
+    // (tu algoritmo aca)
+  }
+}
 ```
 
 #### Ejemplo:

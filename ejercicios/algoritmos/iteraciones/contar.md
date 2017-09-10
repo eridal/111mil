@@ -5,12 +5,12 @@ Escribir un programa que imprima numeros de uno en uno, desde el `1` hasta infin
 
 El programa no debe terminar.
 
-```scala
-Proceso contar
-
-  // (tu algoritmo aca)
-
-FinProceso
+```java
+public class Contar {
+  public static void main(String[] args) {
+    // (tu algoritmo aca)
+  }
+}
 ```
 
 #### Ejemplo:
