@@ -5,3 +5,4 @@ Ejercicios
 1. [Funciones](funciones/)
 1. [Tipos Abstractos](tdas/)
 1. [Objetos](objetos/)
+1. [Problemas](problemas/)
