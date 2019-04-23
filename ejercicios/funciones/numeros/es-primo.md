@@ -17,7 +17,7 @@ public class Numeros {
 
 #### Ejemplo de uso:
 
-```scala
+```java
 public class EjemploNumerosEsPrimo {
 
   public static void main(String[] args) {
