@@ -34,7 +34,7 @@ Ancho invalido
 > Ingrese ancho: 1
 
 #
-
+//existe un error
 > Ingrese alto: 8
 > Ingrese ancho: 5
 
