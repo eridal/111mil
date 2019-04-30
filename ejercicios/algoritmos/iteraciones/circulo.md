@@ -5,7 +5,7 @@ Escribir un programa que nos pida un numero _radio_ y luego dibuje un circulo de
 
 Luego el programa volvera a pedir otros dos numeros, para repetir la operacion. El programa no debe terminar.
 
-Se debera validar que el cuadrado posea como minimo `1` de _radio_, en cuyo caso se mostrara un mensaje de error.
+Se debera validar que el circulo posea como minimo `1` de _radio_, en cuyo caso se mostrara un mensaje de error.
 
 Finalmente el programa debera tratar correctamente ingresos invalidos, como numeros negativos, letras, y cualquier otro error de usuario, en cuyo caso se mostrara un mensaje de error.
 
