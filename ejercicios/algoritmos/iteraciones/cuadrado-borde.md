@@ -58,8 +58,8 @@ Ancho invalido
 | |
 +-+
 
-> Ingrese alto: 8
-> Ingrese ancho: 5
+> Ingrese alto: 5
+> Ingrese ancho: 7
 
 +-------+
 |       |
