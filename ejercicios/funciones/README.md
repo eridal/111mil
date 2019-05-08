@@ -1,5 +1,6 @@
 Funciones
 =========
 
-1. [Arrays](arrays/)
 1. [Numeros](numeros/)
+1. [Arrays](arrays/)
+
