@@ -6,7 +6,7 @@ Convierte una temperatura en grados Celcius a grados Fahrenheit.
 
 Realizar la conversion segun la siguiente definicion:
 
-     F(x) = (x °C * 8 / 5) + 32 °F
+     F(x) = (x °C * 9 / 5) + 32 °F
 
 > _Extra_: Implementar la operacion inversa: de grados Fahrenheit a Celcius
 
